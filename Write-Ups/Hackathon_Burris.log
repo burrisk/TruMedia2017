@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  17 FEB 2017 15:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 FEB 2017 07:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -682,7 +682,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 305--306
 
  []
 
-[7]
+[7] [8]
 Underfull \hbox (badness 10000) in paragraph at lines 386--387
 
  []
@@ -692,7 +692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 391--392
 
  []
 
-[8]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 396--397
 
  []
@@ -707,7 +707,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 407--408
 
  []
 
-<../Output/fig7.jpg, id=61, 552.0625pt x 436.63126pt>
+<../Output/fig7.jpg, id=64, 552.0625pt x 436.63126pt>
 File: ../Output/fig7.jpg Graphic file (type jpg)
  <use ../Output/fig7.jpg>
 Package pdftex.def Info: ../Output/fig7.jpg used on input line 411.
@@ -717,7 +717,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 415--416
 
  []
 
-[9] [10 <../Output/fig7.jpg>]
+[10] [11 <../Output/fig7.jpg>]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 428.
 
@@ -744,7 +744,7 @@ Overfull \hbox (26.51173pt too wide) in paragraph at lines 440--442
 rapping-intentional-walk-raising-
  []
 
-[11] (./Hackathon_Burris.aux) ) 
+[12] (./Hackathon_Burris.aux) ) 
 Here is how much of TeX's memory you used:
  4483 strings out of 493089
  65509 string characters out of 6134842
@@ -770,10 +770,10 @@ y10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
 fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
 b>
-Output written on Hackathon_Burris.pdf (11 pages, 2322579 bytes).
+Output written on Hackathon_Burris.pdf (12 pages, 2322935 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 129 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
